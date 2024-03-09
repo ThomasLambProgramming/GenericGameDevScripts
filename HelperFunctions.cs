@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace FishingWizard
+namespace GenericHelperScripts 
 {
     public class HelperFunctions
     {
